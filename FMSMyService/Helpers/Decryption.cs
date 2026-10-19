@@ -1,34 +1,32 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.IO;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace FMSMyService.Helpers
+namespace FMSISSTransactionService.Helpers
 {
     public class Decryption
     {
-        private const string key = "";
-
-        public string DecryptString(string ciphertext)
+        public string DecryptString(string cipherText)
         {
             byte[] iv = new byte[16];
-            byte [] buffer = Convert.FromBase64String(ciphertext);
+            byte[] buffer = Convert.FromBase64String(cipherText);
             using (Aes aes = Aes.Create())
             {
-                aes.Key= Encoding.UTF8 .GetBytes(key);
+                aes.Key = Encoding.UTF8.GetBytes("n89jk9876g1w3581tfwa6as2461e6794");
                 aes.IV = iv;
-                ICryptoTransform decrptor = aes.CreateDecryptor(aes.Key,aes.IV);
+                ICryptoTransform decryptor = aes.CreateDecryptor(aes.Key, aes.IV);
                 using (MemoryStream memoryStream = new MemoryStream(buffer))
-                using (CryptoStream cryptoStream = new CryptoStream(memoryStream, decrptor, CryptoStreamMode.Read))
-                using (StreamReader streamreader = new StreamReader(cryptoStream))
                 {
-                    return streamreader.ReadToEnd();
+                    using (CryptoStream cryptoStream = new CryptoStream(memoryStream, decryptor, CryptoStreamMode.Read))
+                    {
+                        using (StreamReader streamReader = new StreamReader(cryptoStream))
+                        {
+                            return streamReader.ReadToEnd();
+                        }
+                    }
                 }
-
-
             }
         }
-        
-
     }
 }

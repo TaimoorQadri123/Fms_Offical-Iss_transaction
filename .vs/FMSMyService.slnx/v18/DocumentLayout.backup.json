@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\helpers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\helpers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\helpers\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\helpers\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\helpers\\decryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\helpers\\decryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Helpers\\Logger.cs",
+              "RelativeDocumentMoniker": "FMSMyService\\Helpers\\Logger.cs",
+              "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Helpers\\Logger.cs*",
+              "RelativeToolTip": "FMSMyService\\Helpers\\Logger.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T07:57:41.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Helpers\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FMSMyService\\Helpers\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Helpers\\AppDbContext.cs*",
+              "RelativeToolTip": "FMSMyService\\Helpers\\AppDbContext.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T07:39:56.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Decryption.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Helpers\\Decryption.cs",
+              "RelativeDocumentMoniker": "FMSMyService\\Helpers\\Decryption.cs",
+              "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Helpers\\Decryption.cs*",
+              "RelativeToolTip": "FMSMyService\\Helpers\\Decryption.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T06:54:48.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

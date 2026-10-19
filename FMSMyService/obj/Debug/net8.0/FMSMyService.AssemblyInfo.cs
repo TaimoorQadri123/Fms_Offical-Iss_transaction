@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("dotnet-FMSISSTransactionService-122df566-83e6-42ef-b55a-09a6c14b43c4")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("FMSMyService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b857225508deb7c8d1b0ffe388eba039c7351eba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a6aebd9bdc617ec97bdc8d4f14ba97abfa46c54")]
 [assembly: System.Reflection.AssemblyProductAttribute("FMSMyService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FMSMyService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

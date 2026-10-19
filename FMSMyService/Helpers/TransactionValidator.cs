@@ -1,4 +1,4 @@
-﻿#nullable enable
+#nullable enable
 using Microsoft.Data.SqlClient;
 using System;
 using System.Collections.Generic;
@@ -683,7 +683,7 @@ namespace FMSISSTransactionService.Helpers
         /// <summary>
         /// Validates a single value against the target column's schema and produces typed and failed output values.
         /// </summary>
-        private void ValidateAndConvertColumn(ColumnSchema schema, object? rawValue, out object? typedVal, out object? failedVal, StringBuilder errors)
+        private void ValidateAndConvertColumn(ColumnSchema schema,object? rawValue,out object? typedVal,out object? failedVal,StringBuilder errors)
         {
             bool isNullOrDbNull = rawValue == null || rawValue == DBNull.Value;
             bool isStringEmpty = !isNullOrDbNull && rawValue is string s && string.IsNullOrWhiteSpace(s);

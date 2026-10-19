@@ -3,32 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\services\\commonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\services\\commonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\helpers\\decryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\helpers\\decryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\helpers\\transactionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\helpers\\transactionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\models\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\models\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\helpers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\helpers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\helpers\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\helpers\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\models\\criterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\models\\criterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\helpers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\helpers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\models\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\models\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\helpers\\decryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\helpers\\decryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\helpers\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\helpers\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{73D96F7A-4D7E-4B2A-A232-B4B7E010C3B6}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\models\\modifypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\models\\modifypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\services\\commonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\services\\commonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\models\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\models\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\models\\rulesandcriterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\models\\rulesandcriterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\services\\servicerun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\services\\servicerun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\fmsmyservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\fmsmyservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\helpers\\transactionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\helpers\\transactionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|c:\\users\\muhammad.taimoor\\source\\repos\\fmsmyservice\\fmsmyservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0878-D22F-ACBC-612C-A64DFC0A4E6F}|FMSMyService\\FMSMyService.csproj|solutionrelative:fmsmyservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,95 +70,199 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Criterias.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Models\\Criterias.cs",
+              "RelativeDocumentMoniker": "FMSMyService\\Models\\Criterias.cs",
+              "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Models\\Criterias.cs",
+              "RelativeToolTip": "FMSMyService\\Models\\Criterias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T11:35:06.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModifyPoints.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Models\\ModifyPoints.cs",
+              "RelativeDocumentMoniker": "FMSMyService\\Models\\ModifyPoints.cs",
+              "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Models\\ModifyPoints.cs",
+              "RelativeToolTip": "FMSMyService\\Models\\ModifyPoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T11:33:21.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Parameter.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Models\\Parameter.cs",
+              "RelativeDocumentMoniker": "FMSMyService\\Models\\Parameter.cs",
+              "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Models\\Parameter.cs",
+              "RelativeToolTip": "FMSMyService\\Models\\Parameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T11:33:14.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RulesAndCriterias.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Models\\RulesAndCriterias.cs",
+              "RelativeDocumentMoniker": "FMSMyService\\Models\\RulesAndCriterias.cs",
+              "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Models\\RulesAndCriterias.cs",
+              "RelativeToolTip": "FMSMyService\\Models\\RulesAndCriterias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T11:33:05.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FMSMyService",
+              "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\FMSMyService.csproj",
+              "RelativeDocumentMoniker": "FMSMyService\\FMSMyService.csproj",
+              "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\FMSMyService.csproj",
+              "RelativeToolTip": "FMSMyService\\FMSMyService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-19T11:26:55.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Program.cs",
+              "RelativeDocumentMoniker": "FMSMyService\\Program.cs",
+              "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Program.cs",
+              "RelativeToolTip": "FMSMyService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T11:25:18.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Worker.cs",
+              "RelativeDocumentMoniker": "FMSMyService\\Worker.cs",
+              "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Worker.cs",
+              "RelativeToolTip": "FMSMyService\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T11:23:12.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceRun.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Services\\ServiceRun.cs",
+              "RelativeDocumentMoniker": "FMSMyService\\Services\\ServiceRun.cs",
+              "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Services\\ServiceRun.cs",
+              "RelativeToolTip": "FMSMyService\\Services\\ServiceRun.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAiwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T11:20:51.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Rules.cs",
               "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Models\\Rules.cs",
               "RelativeDocumentMoniker": "FMSMyService\\Models\\Rules.cs",
               "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Models\\Rules.cs",
               "RelativeToolTip": "FMSMyService\\Models\\Rules.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAIAzwCEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T11:05:34.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "TransactionValidator.cs",
               "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Helpers\\TransactionValidator.cs",
               "RelativeDocumentMoniker": "FMSMyService\\Helpers\\TransactionValidator.cs",
               "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Helpers\\TransactionValidator.cs",
               "RelativeToolTip": "FMSMyService\\Helpers\\TransactionValidator.cs",
-              "ViewState": "AgIAAEAEAAAAAAAAAAAUwGIEAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwE8EAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T11:01:55.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "CommonMethods.cs",
               "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Services\\CommonMethods.cs",
               "RelativeDocumentMoniker": "FMSMyService\\Services\\CommonMethods.cs",
               "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Services\\CommonMethods.cs",
               "RelativeToolTip": "FMSMyService\\Services\\CommonMethods.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAkwIoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAtwKEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T10:36:20.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\appsettings.json",
               "RelativeDocumentMoniker": "FMSMyService\\appsettings.json",
               "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\appsettings.json",
               "RelativeToolTip": "FMSMyService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-10-19T10:04:53.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Logger.cs",
               "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Helpers\\Logger.cs",
               "RelativeDocumentMoniker": "FMSMyService\\Helpers\\Logger.cs",
               "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Helpers\\Logger.cs",
               "RelativeToolTip": "FMSMyService\\Helpers\\Logger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T07:57:41.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Helpers\\AppDbContext.cs",
               "RelativeDocumentMoniker": "FMSMyService\\Helpers\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Helpers\\AppDbContext.cs",
               "RelativeToolTip": "FMSMyService\\Helpers\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T07:39:56.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Decryption.cs",
               "DocumentMoniker": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Helpers\\Decryption.cs",
               "RelativeDocumentMoniker": "FMSMyService\\Helpers\\Decryption.cs",
               "ToolTip": "C:\\Users\\muhammad.taimoor\\source\\repos\\FMSMyService\\FMSMyService\\Helpers\\Decryption.cs",
               "RelativeToolTip": "FMSMyService\\Helpers\\Decryption.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T06:54:48.663Z",
               "EditorCaption": ""

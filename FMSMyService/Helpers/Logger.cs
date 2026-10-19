@@ -16,7 +16,7 @@ namespace FMSMyService.Helpers
             .AddJsonFile("appSettings.json", optional: true, reloadOnChange: true)
             .Build();
 
-        private static readonly string Default =
+        private static readonly string DefaultFolder =
             configuration["LogSettings:Folder"] ?? "ISS";
         private static readonly object _lock = new object();
         private static string _logDirectory = configuration["LogSettings:LogDirectory"] ?? @"C:\FMSLogs";

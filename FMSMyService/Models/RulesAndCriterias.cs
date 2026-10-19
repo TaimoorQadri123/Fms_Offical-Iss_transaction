@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FMSMyService
 {
-    internal class RulesAndCriterias
+    public class RulesAndCriterias
     {
         public long ParameterId { get; set; }
         public long CriterialId { get; set; }

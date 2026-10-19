@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FMSMyService.Models
 {
-    internal class ModifyPoints
+    public class ModifyPoints
     {
         public string ModifyType { get; set; } 
         public DateTime ModifiedOn { get; set; }

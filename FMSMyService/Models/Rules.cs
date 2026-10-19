@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FMSMyService.Models
 {
-    internal class Rules
+    public class Rules
     {
         public Rules()
         {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FMSMyService.Models
 {
-    internal class Criterias
+    public class Criterias
     {
         public long CritrialId { get; set; }
         public string Operator { get; set; }

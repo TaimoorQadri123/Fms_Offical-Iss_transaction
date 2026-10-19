@@ -21,7 +21,7 @@ namespace FMSMyService.Helpers
         {
         }
         public DbSet<ModifyPoints> ModifyPoints { get; set; }
-        public override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        protected  override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured && !string.IsNullOrEmpty(_connectionString))
             {

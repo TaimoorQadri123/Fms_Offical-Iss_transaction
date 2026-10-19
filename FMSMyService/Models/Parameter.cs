@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FMSMyService.Models
 {
-    internal class Parameter
+    public class Parameter
     {
         public long ParameterId { get; set; }
         public string ParameterName { get; set; } = "";

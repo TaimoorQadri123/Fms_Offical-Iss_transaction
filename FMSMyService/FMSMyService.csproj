@@ -4,6 +4,7 @@
 		<TargetFramework>net8.0</TargetFramework>
 		<Nullable>disable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
+		<UserSecretsId>dotnet-FMSISSTransactionService-122df566-83e6-42ef-b55a-09a6c14b43c4</UserSecretsId>
 	</PropertyGroup>
 
 	<ItemGroup>
@@ -15,4 +16,10 @@
 		<PackageReference Include="Oracle.ManagedDataAccess.Core" Version="23.7.0" />
 	</ItemGroup>
 
+	<ItemGroup>
+		<Content Include="MapData\**\*">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+		</Content>
+	</ItemGroup>
 </Project>

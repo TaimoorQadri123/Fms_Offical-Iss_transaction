@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FMSMyService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30836c9ca6f3d9cb840c96a991ed3f9a5ec8162c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdbd26a9075149aeff1e1f76b93f613f6ed84ea8")]
 [assembly: System.Reflection.AssemblyProductAttribute("FMSMyService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FMSMyService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
